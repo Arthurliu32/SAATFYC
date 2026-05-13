@@ -6,9 +6,7 @@ import json
 import st_yled
 st_yled.init()
 
-streamlit/config.toml
-[theme]
-primaryColor = "FF4B4B"
+
 
 
 client = OpenAI(
